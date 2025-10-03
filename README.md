@@ -1,5 +1,5 @@
 🚀 Jorge Diaz - Desarrollador Frontend
-<div align="center"><!-- CABECERA MATRIX --><svg width="100%" height="250" xmlns="http://www.w3.org/2000/svg"> <style> @keyframes matrixFall { 0% { transform: translateY(-100px); opacity: 0; } 10% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateY(250px); opacity: 0; } } @keyframes nameGlow { 0%, 100% { filter: drop-shadow(0 0 5px #00ff41); } 50% { filter: drop-shadow(0 0 20px #00ff41); } } .matrix-char { animation: matrixFall linear infinite; font-family: 'Courier New', monospace; font-size: 14px; fill: #00ff41; font-weight: bold; } </style> <!-- Fondo negro --> <rect width="100%" height="100%" fill="#000000"/> <!-- Lluvia Matrix intensa -->
+<div align="center"><!-- CABECERA MATRIX --><svg width="100%" height="250" xmlns="http://www.w3.org/2000/svg">  <!-- Fondo negro --> <rect width="100%" height="100%" fill="#000000"/> <!-- Lluvia Matrix intensa -->
 <text class="matrix-char" x="5%" y="0" style="animation-duration: 3s">1010</text>
 <text class="matrix-char" x="12%" y="-30" style="animation-duration: 3.5s">0101</text>
 <text class="matrix-char" x="18%" y="-60" style="animation-duration: 2.8s">{}[]</text>
